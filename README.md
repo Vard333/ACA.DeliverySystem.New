@@ -14,7 +14,7 @@ User Authentication: Secure user login using token-based authentication.
 
 Order Management: Users can create, view, and manage delivery orders, add items, update quantities, and delete orders.
 
-Payment Integration: Pay for orders by clicking the "Pay for order" button and filling in the card details.
+Payment Integration: Pay for orders by clicking the "Pay for order" button and entering payment details.
 
 Responsive Design: A modern, responsive interface designed using MudBlazor components.
 
